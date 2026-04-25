@@ -64,10 +64,9 @@ I work across the full depth of the stack: from designing distributed backend sy
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
 **Coursework**
 
-Operating Systems · DBMS · Computer Networks · Distributed Systems
+<sub>Operating Systems · DBMS · Computer Networks · Distributed Systems</sub>
 ---
 
 ## Featured Projects
