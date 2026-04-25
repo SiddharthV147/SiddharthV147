@@ -18,8 +18,8 @@ Final-year Computer Engineering student at JSPM's BSIOTR, Pune — targeting SDE
 
 I work across the full depth of the stack: from designing distributed backend systems in Java and C++ to building and deploying ML pipelines with real performance constraints. My interests lean toward **high-throughput backend engineering**, **AI/ML** and **systems programming** — areas where correctness and performance both matter.
 
-- Merged a PR to **Intel's OpenVINO** (C++ systems, PyTorch model conversion pipeline)
 - Contributed to **Google's Keras**
+- Merged a PR to **Intel's OpenVINO** (C++ systems, PyTorch model conversion pipeline)
 - Strong DSA fundamentals — **LeetCode rating: 1808**
 
 ---
