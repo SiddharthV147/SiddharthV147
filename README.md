@@ -67,7 +67,6 @@ I work across the full depth of the stack: from designing distributed backend sy
 
 
 **Coursework**
-
 <sub>Operating Systems · DBMS · Computer Networks · Distributed Systems</sub>
 ---
 
