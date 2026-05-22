@@ -20,7 +20,7 @@ I work across the full depth of the stack: from designing distributed backend sy
 
 - Contributed to **Google's Keras**
 - Engineered full-stack applications and end-to-end ML pipelines across multiple early-stage startups — from system design to production deployment
-- Strong DSA fundamentals — **LeetCode rating: 1808**
+- Strong DSA fundamentals — **LeetCode rating: 1832**
 
 ---
 
